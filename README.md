@@ -3,7 +3,7 @@ Implementação de um identificador de dígitos usando o dataset MNIST com o pac
 
 Para ser possível executar o arquivo, são necessárias as instalações abaixo:
 
-- Fazer o download do pacote anaconda, versão 3.6 (https://www.anaconda.com/download/).Que contém o Python 3.6 e o Jupyter Notebook. Executar o instalador como administrador, e marcar as duas opções na aba Advanced Options ( "Add Anaconda to the system PATH enviroment variable" e "Register Anaconda as the system Python 3.6).
+- Fazer o download do pacote anaconda, versão 3.6 (https://www.anaconda.com/download/). Que contém o Python 3.6 e o Jupyter Notebook. Executar o instalador como administrador, e marcar as duas opções na aba Advanced Options ( "Add Anaconda to the system PATH enviroment variable" e "Register Anaconda as the system Python 3.6).
 
 - No prompt executar o comando "jupyter notebook", abrirá no seu navegador padrão na pasta onde o comando foi executado.
 
