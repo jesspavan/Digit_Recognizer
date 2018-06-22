@@ -10,9 +10,9 @@ Para ser possível executar o arquivo, são necessárias as instalações abaixo
 - Fazer o download do arquivo "digit_recognizer.ipynb"
 
 - Instalar os seguintes pacotes na pasta onde está o arquivo "digit_recognizer.ipynb" :
-  $ pip install msgpack
-  $ pip install requests
-  $ pip install mxnet
-  $ pip install requests jupyter
+  - $ pip install msgpack
+  - $ pip install requests
+  - $ pip install mxnet
+  - $ pip install requests jupyter
   
 Não é necessário fazer o download do dataset porque o programa já faz e coloca na mesma pasta do arquivo.
