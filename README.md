@@ -15,4 +15,4 @@ Para ser possível executar o arquivo, são necessárias as instalações abaixo
   $ pip install mxnet
   $ pip install requests jupyter
   
-Não é necessário fazer o download do dataset porque o programa já faz o download e coloca na mesma pasta do arquivo.
+Não é necessário fazer o download do dataset porque o programa já faz e coloca na mesma pasta do arquivo.
