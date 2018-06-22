@@ -1,4 +1,4 @@
-# Digit_Recognizer
+# Digit Recognizer
 Implementação de um identificador de dígitos usando o dataset MNIST com o pacote mxnet. 
 
 Para ser possível executar o arquivo, são necessárias as instalações abaixo:
