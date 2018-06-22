@@ -15,4 +15,6 @@ Para ser possível executar o arquivo, são necessárias as instalações abaixo
   - $ pip install mxnet
   - $ pip install requests jupyter
   
+ - Abrir o arquivo baixado pelo jupyter notebook. É possível executar cada bloco separadamente.
+ 
 Não é necessário fazer o download do dataset, o programa já faz.
